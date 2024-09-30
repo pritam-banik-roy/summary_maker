@@ -31,17 +31,18 @@ To set up the project locally:
 3. Open index.html in your browser to view the website.
 
 ## Usage
-• Paste or input any text into the website's text box.
-• Click the "Summarize" button to generate a quick and concise summary using Gemini AI.
-• Read the summarized version of the text displayed below the input box.
+- ** Paste or input any text into the website's text box.
+- ** Click the "Summarize" button to generate a quick and concise summary using Gemini AI.
+- ** Read the summarized version of the text displayed below the input box.
+  
 ## Contribution
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository and create a pull request.
 
 ## Fork the repository.
-• Create a new branch (git checkout -b feature-branch).
-• Make your changes and commit them (git commit -m 'Add new feature').
-• Push to the branch (git push origin feature-branch).
-• Create a new Pull Request.
+- ** Create a new branch (git checkout -b feature-branch).
+- ** Make your changes and commit them (git commit -m 'Add new feature').
+- ** Push to the branch (git push origin feature-branch).
+- ** Create a new Pull Request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -49,5 +50,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: pritambanikroy@gmail.com
-GitHub: https://github.com/pritam-banik-roy
+- ** Email: pritambanikroy@gmail.com
+- ** GitHub: https://github.com/pritam-banik-roy
