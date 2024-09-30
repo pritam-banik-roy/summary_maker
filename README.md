@@ -1,6 +1,6 @@
-# Summary Website 📋
+# Summary Maker Website 📋
 
-Welcome to the **Summary Website**! This website utilizes **Gemini AI** to help users generate concise summaries from large chunks of text. It's designed to assist in quickly condensing information into digestible formats, making it easier to capture essential details at a glance.
+Welcome to the **Summary Maker Website**! This website utilizes **Gemini AI** to help users generate concise summaries from large chunks of text. It's designed to assist in quickly condensing information into digestible formats, making it easier to capture essential details at a glance.
 
 ## Features
 
